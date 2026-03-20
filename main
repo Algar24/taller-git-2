@@ -1,0 +1,4 @@
+def summar(a, b):
+    return a - b
+
+sumar(5,3)
